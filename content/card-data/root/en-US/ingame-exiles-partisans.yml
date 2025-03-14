@@ -1,0 +1,475 @@
+- id: ROOT-200
+  text: >-
+    At start of battle, defender may play to deal two immediate hits, then
+    discard. Cancel if attacker plays matching ambush.
+  image: card-ambushbird
+  seen: 2
+  type: bird
+  numbers: 2
+  name: Ambush!
+  tags:
+    - Exiles & Partisans Deck
+- id: ROOT-201
+  text: >-
+    At start of battle, defender may play to deal two immediate hits, then
+    discard. Cancel if attacker plays matching ambush.
+  image: card-ambushbunny
+  seen: 1
+  type: bunny
+  numbers: 1
+  name: Ambush!
+  tags:
+    - Exiles & Partisans Deck
+- id: ROOT-202
+  text: >-
+    At start of battle, defender may play to deal two immediate hits, then
+    discard. Cancel if attacker plays matching ambush.
+  image: card-ambushfox
+  seen: 1
+  type: fox
+  numbers: 1
+  name: Ambush!
+  tags:
+    - Exiles & Partisans Deck
+- id: ROOT-203
+  text: >-
+    At start of battle, defender may play to deal two immediate hits, then
+    discard. Cancel if attacker plays matching ambush.
+  image: card-ambushmouse
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Ambush!
+  tags:
+    - Exiles & Partisans Deck
+- id: ROOT-204
+  image: card-anvil
+  type: fox
+  numbers: 1
+  name: Anvil
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-205
+  image: card-armstrader
+  seen: 1
+  type: bird
+  numbers: 1
+  name: Arms Trader
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-206
+  image: card-avisittofriends
+  seen: 1
+  type: bunny
+  numbers: 1
+  name: A Visit To Friends
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-207
+  image: card-bakesale
+  seen: 1
+  type: bunny
+  numbers: 1
+  name: Bake Sale
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-208
+  image: card-birdybindle
+  seen: 1
+  type: bird
+  numbers: 1
+  name: Birdy Bindle
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-209
+  image: card-crossbowbird
+  seen: 1
+  type: bird
+  numbers: 1
+  name: Crossbow
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-210
+  image: card-crossbowmouse
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Crossbow
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-211
+  text: >-
+    You win the game if you rule two opposite corners at the start of your
+    Birdsong.
+  image: card-dominancebird
+  seen: 1
+  type: bird
+  numbers: 1
+  name: Dominance
+  tags:
+    - Exiles & Partisans Deck
+- id: ROOT-212
+  text: >-
+    You win the game if you rule three bunny clearings at the start of your
+    Birdsong.
+  image: card-dominancebunny
+  type: bunny
+  numbers: 1
+  name: Dominance
+  tags:
+    - Exiles & Partisans Deck
+- id: ROOT-213
+  text: >-
+    You win the game if you rule three fox clearings at the start of your
+    Birdsong.
+  image: card-dominancefox
+  seen: 1
+  type: fox
+  numbers: 1
+  name: Dominance
+  tags:
+    - Exiles & Partisans Deck
+- id: ROOT-214
+  text: >-
+    You win the game if you rule three mouse clearings at the start of your
+    Birdsong.
+  image: card-dominancemouse
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Dominance
+  tags:
+    - Exiles & Partisans Deck
+- id: ROOT-215
+  image: card-foxfolksteel
+  seen: 1
+  type: fox
+  numbers: 1
+  name: Foxfolk Steel
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-216
+  image: card-gentlyusedknapsack
+  seen: 1
+  type: fox
+  numbers: 1
+  name: Gently Used Knapsack
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-217
+  image: card-investments
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Investments
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-218
+  image: card-mouseinasack
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Mouse-in-a-sack
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-219
+  image: card-protectionracket
+  seen: 1
+  type: fox
+  numbers: 1
+  name: Protection Racket
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-220
+  image: card-rootteabunny
+  seen: 1
+  type: bunny
+  numbers: 1
+  name: Root Tea
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-221
+  image: card-rootteafox
+  seen: 1
+  type: fox
+  numbers: 1
+  name: Root Tea
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-222
+  image: card-rootteamouse
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Root Tea
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-223
+  image: card-smugglerstrail
+  seen: 1
+  type: bunny
+  numbers: 1
+  name: Smuggler's Trail
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-224
+  image: card-sword
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Sword
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-225
+  image: card-travelgearfox
+  seen: 1
+  type: fox
+  numbers: 1
+  name: Travel Gear
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-226
+  image: card-travelgearmouse
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Travel Gear
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-227
+  image: card-woodlandrunners
+  seen: 1
+  type: bird
+  numbers: 1
+  name: Woodland Runners
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+
+    ## above here ids need fixed
+- id: ROOT-57
+  text: You treat rivers as paths.
+  image: card-boatbuilders
+  seen: 1
+  type: bird
+  numbers: 1
+  name: Boat Builders
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-59
+  text: >-
+    At start of Evening, may draw a card and choose another player to score one
+    point.
+  image: card-charmoffensive
+  seen: 2
+  type: bunny
+  numbers: 1
+  name: Charm Offensive
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-62
+  text: >-
+    Whenever any warriors would return to a supply, place them on this card
+    instead. At the start of Birdsong, you score one point per five warriors
+    here, then return all warriors here to their supplies.
+  image: card-coffinmakers
+  seen: 1
+  type: bunny
+  numbers: 1
+  name: Coffin Makers
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-64
+  text: 'While moving, you ignore rule.'
+  image: card-corvidplanners
+  seen: 1
+  type: bird
+  numbers: 1
+  name: Corvid Planners
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-71
+  text: >-
+    At the end of Birdsong, take a move, then initiate a battle in the clearing
+    you moved into. If you did not take both actions, discard this card.
+  image: card-eyrieemigre
+  seen: 1
+  type: bird
+  numbers: 1
+  name: Eyrie Emigre
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-72
+  text: >-
+    In Birdsong, may discard this card to move half of an enemy's warriors
+    (rounded up) from any clearing, as if you were that player, ignoring rule.
+
+    *ERRATA:* In Birdsong, may discard this card to force an enemy to move half their faction warriors (round up) from a clearing you choose to a clearing you choose, ignoring rule.
+  image: card-falseorders
+  seen: 2
+  type: fox
+  numbers: 2
+  name: False Orders
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-77
+  text: >-
+    In battle in fox clearings, may deal one extra hit, then discard all your
+    cards except foxes.
+  image: card-foxpartisans
+  seen: 1
+  type: fox
+  numbers: 1
+  name: Fox Partisans
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-79
+  text: >-
+    In Evening, if you would draw cards, you may instead take one ambush card
+    from the discard pile.
+  image: card-informants
+  seen: 2
+  type: fox
+  numbers: 2
+  name: Informants
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-81
+  text: >-
+    Once in Daylight, may exhaust an item in your Crafted Items box to take a
+    move or initiate battle.
+  image: card-leagueofadventrousmice
+  seen: 2
+  type: mouse
+  numbers: 2
+  name: League of Adventurous Mice
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-82
+  text: 'Whenever you craft an item, score one extra point.'
+  image: card-masterengravers
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Master Engravers
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-84
+  text: >-
+    In battle in mouse clearings, may deal one extra hit, then discard all your
+    cards except mice.
+  image: card-mousepartisans
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Mouse Partisans
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-85
+  text: 'Whenever another player crafts an item, draw a card.'
+  image: card-murinebroker
+  seen: 1
+  type: mouse
+  numbers: 1
+  name: Murine Broker
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-86
+  text: >-
+    Once in Daylight, may spend a card to remove an enemy warrior from a
+    matching clearing and place a warrior there.
+  image: card-propagandabureau
+  seen: 1
+  type: fox
+  numbers: 1
+  name: Propaganda Bureau
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-88
+  text: >-
+    In battle in rabbit clearings, may deal one extra hit, then discard all your
+    cards except rabbits.
+  image: card-rabbitpartisans
+  seen: 1
+  type: bunny
+  numbers: 1
+  name: Rabbit Partisans
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-93
+  text: >-
+    At the start of Birdsong, may discard this card to discard an enemys crafted
+    card.
+  image: card-saboteurs
+  seen: 3
+  type: bird
+  numbers: 3
+  name: Saboteurs
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-97
+  text: 'Your tokens now count towards rule, and each of your tokens counts twice.'
+  image: card-soupkitchens
+  seen: 1
+  type: bird
+  numbers: 1
+  name: Soup Kitchens
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-103
+  text: >-
+    Once in Birdsong, may take a random card from another player and then give
+    them a card.
+  image: card-swapmeet
+  seen: 2
+  type: bunny
+  numbers: 2
+  name: Swap Meet
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
+- id: ROOT-108
+  text: You treat clearings with any of your crafting pieces as adjacent.
+  image: card-tunnels
+  seen: 2
+  type: bunny
+  numbers: 2
+  name: Tunnels
+  tags:
+    - Exiles & Partisans Deck
+    - Craftable
